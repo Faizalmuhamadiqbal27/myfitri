@@ -260,5 +260,5 @@ document.body.appendChild(canvas);
 window.onresize = resize;
 resize();
 
-setInterval(addRocket, 2000);
+setInterval(addRocket, 500);
 render();
